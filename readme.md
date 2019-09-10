@@ -44,3 +44,4 @@ for i in range(10000):
 model.plot()
 ``` 
 
+> demo提供了训练mnist数据的完整示例
